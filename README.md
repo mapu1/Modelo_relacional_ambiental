@@ -6,4 +6,4 @@ El objetivo es ilustrar la importancia de los modelos relacionales en la estruct
 # Estructura del repositorio:
 codigo.sql – Contiene el script SQL para la creación de la base de datos utilizando PostGIS.
 
-diagramas – Carpeta con las imágenes de los diagramas (DER y modelo relacional).
+diagramas –  Imagen consolidada de los diagramas (DER y modelo relacional).
